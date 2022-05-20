@@ -1,25 +1,22 @@
 <img src="https://raw.githubusercontent.com/dosbubba/dosbubba/stable/header.png">
-<h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?size=24&vCenter=true&multiline=false&width=715&height=65&lines=self+taught+web+application+developer+from+Canada..." />
-  
----
-  
-<br>
-  
-<table border="0">
-    <tbody>
-        <tr>
-            <td>
-              <img src="https://img.shields.io/twitter/follow/dosbubba_dev?logo=twitter&style=for-the-badge" alt="dosbubba_dev" />
-            </td>
-            <td>
-              <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dosbubba&theme=vue">
-            </td>
-        </tr>
-    </tbody>
-</table>
+<h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?size=24&vCenter=true&multiline=false&width=715&height=65&lines=self+taught+web+application+developer+from+Canada..." /></h3>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=dosbubba&theme=minimal">
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dosbubba" alt="dosbubba" /></a> </p>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0lax">
+      <img src="https://img.shields.io/twitter/follow/dosbubba_dev?logo=twitter&style=for-the-badge" alt="dosbubba_dev">
+      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+    </th>
+    <th class="tg-0lax"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dosbubba&theme=vue"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax" colspan="2"><img src="https://activity-graph.herokuapp.com/graph?username=dosbubba&theme=minimal"></td>
+  </tr>
+</tbody>
+</table>
 
 ---
 
