@@ -5,8 +5,10 @@
 <thead>
   <tr>
     <th class="tg-0lax">
-      <img src="https://img.shields.io/twitter/follow/dosbubba_dev?logo=twitter&style=for-the-badge" alt="dosbubba_dev">
-      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+      <img src="https://img.shields.io/badge/cabotmichael@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=f7cbd3&label="><br>
+      <img src="https://img.shields.io/twitter/follow/dosbubba_dev?logo=twitter&style=for-the-badge" alt="dosbubba_dev"><br>
+      <img src="https://img.shields.io/badge/Zone.Jones-1877F2?style=for-the-badge&logo=facebook&logoColor=8ba3d4&label=Facebook"><br>
+      <img src="https://img.shields.io/badge/Zone__Jones-E4405F?style=for-the-badge&logo=instagram&logoColor=f7cbd3&label=Instagram"><br>
     </th>
     <th class="tg-0lax"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dosbubba&theme=vue"></th>
   </tr>
