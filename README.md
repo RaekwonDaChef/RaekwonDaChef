@@ -36,7 +36,7 @@
   <td class="tg-0lax">
     <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dosbubba&show_icons=true&locale=en&layout=compact" alt="dosbubba" /></p>  </td>
     <td class="tg-0lax">
-      <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dosbubba&show_icons=true&locale=en" alt="dosbubba" /></p>
+      <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dosbubba&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=394b5e&count_private=true&locale=en" alt="dosbubba" /></p>
     </td>
   </tr>
   <tr>
